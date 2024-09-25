@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(61, 37, 17);
+    color: rgb(252, 234, 213);
+}
+
+img{
+    height: 900px;
+}
+p {
+    font-size: 20px;
+}
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+h3 {
+    font-size: 35px;
+}
+button{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(253, 243, 229);
+    color: black;
+    font-size: 18px;
+}
