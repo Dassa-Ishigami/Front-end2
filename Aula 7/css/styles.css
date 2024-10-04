@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: rgb(97, 162, 171);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+.conteiner{
+    background-color: rgba(204, 245, 245, 0.9);
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(52, 92, 92, 0.9);
+    padding: 20px;
+    width: 200px;
+}
+h1{
+    margin: 0px;
+}
